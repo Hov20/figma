@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.headerr {
+    height: 88px;
+}
+
+.header_context {
+    display: flex;
+    align-items: center;
+    padding-top: 25%;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    align-self: center;
+    list-style-type: none;
+}
+
+nav {
+    width: 600px;
+    height: 20px;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+a {
+    text-decoration: none;
+    color: #2B2C30;
+}
